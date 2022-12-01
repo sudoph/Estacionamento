@@ -1,2 +1,2 @@
 # Estacionamento
-Projeto da disciplina de Programação III - 2022
+Projeto da disciplina de Programação III 2022
